@@ -1,5 +1,5 @@
 
-1.Set up Application and credentials via Facebook Developer Portal.
+1.Set up Application and Credentials via Facebook Developer Portal. 
 
 2.Run web.py a simple flask application to perform OAuth2 Authentication
 
